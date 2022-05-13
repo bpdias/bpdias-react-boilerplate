@@ -1,7 +1,7 @@
 ### Bpdias React Boilerplate ###
 
 ### Project Intention ###
-* Admin who provides members information and actiona
+* A Robust React Application boilerplate.
 
 ### Project Dependencies ###
 
